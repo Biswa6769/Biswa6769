@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![@biswa6769's Holopin board](https://holopin.me/biswa6769)](https://holopin.io/@biswa6769)
 <h1 align="center">Hi 👋, I'm Biswajit Sethi</h1>
-<h3 align="center">An Enthusiastic learner from India</h3>
+<h3 align="center">An Enthusiastic Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswa6769&label=Profile%20views&color=0e75b6&style=flat" alt="biswa6769" /> </p>
 
